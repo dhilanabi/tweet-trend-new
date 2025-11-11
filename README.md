@@ -1,4 +1,5 @@
 # Ttrend application
+# made changes to check pollscm working or not
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  
